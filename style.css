@@ -1,0 +1,74 @@
+          /*background and design*/
+body{
+  background: #eeeeee;
+  color: #140D4F;
+  font-size: 25px;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+h1{
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #ffeafe;
+  font-weight: bold
+  font-size: 50px;
+}
+
+h2 {
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #D41717;
+  font-weight: normal;
+  font-size: 30px;
+}
+
+a {
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #fff1c1;
+  font-weight: normal;
+  font-size: 15px;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+  font-weight: normal;
+  font-size: 15px;
+}
+
+	/*custom design*/
+	#banner {
+		background-image: url(https://images.pexels.com/photos/1624504/pexels-photo-1624504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+		background-size: cover;
+		padding: 150px; 0px;
+		text-align: center;
+		color: white;
+		margin: 0px;
+		}
+	#banner h1 {
+		color: white;
+		font-size: 50px;
+		text-shadow: 0.3px 0.3px 0.3px grey;
+		}
+	#banner p {
+		font-size:30px;
+		font-size: lighter;
+		}
+.section { 
+	padding: 40px;
+	font-weight: lighter;
+
+	}
+#footer{
+  padding: 50px;
+  background: #525962;
+  color: lightgrey;
+  font-size: 20px;
+  text-align: center
+}
+.fab {
+	color: #EFFEEF;
+	font-size: 40px;
+	}
+
+.card{
+  padding: 40px;
+  font-weight: lighter;
+}
